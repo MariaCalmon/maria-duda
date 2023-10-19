@@ -1,0 +1,19 @@
+.Massa{
+    font-style: italic;
+    color: aliceblue;
+}
+.Carbonara{
+    font-style: italic;
+}
+.Macarrão{
+    font-style: italic;
+}
+h1{
+    background-color: rgb(10, 17, 85);
+}
+h2{
+    background-color: rgb(77, 37, 114);
+}
+h3{
+    background-color: rgb(4, 133, 90);
+}
